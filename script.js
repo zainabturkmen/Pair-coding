@@ -12,3 +12,4 @@ const totalApples = initialApples + applesToBuy;
 console.log(totalApples)
 
 
+
