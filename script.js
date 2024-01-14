@@ -10,3 +10,5 @@ const applesToBuy = 27;
 const totalApples = initialApples + applesToBuy;
 
 console.log(totalApples)
+
+
