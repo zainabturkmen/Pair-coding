@@ -12,4 +12,7 @@ const totalApples = initialApples + applesToBuy;
 console.log(totalApples)
 
 
+ const num = 3;
+
+ console.log(num)
 
