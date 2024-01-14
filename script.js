@@ -12,7 +12,8 @@ const totalApples = initialApples + applesToBuy;
 console.log(totalApples)
 
 
- const num = 3;
+ let num = 3;
+ num = 4
 
  console.log(num)
 
