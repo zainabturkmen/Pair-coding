@@ -9,7 +9,6 @@ const applesToBuy = 27;
 
 const totalApples = initialApples + applesToBuy;
 
-console.log(totalApples)
 
  let num = 3;
  num = 4
