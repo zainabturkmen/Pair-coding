@@ -15,5 +15,3 @@ console.log(totalApples)
  num = 4
  console.log(num)
 
-
- 
