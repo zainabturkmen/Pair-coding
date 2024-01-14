@@ -14,6 +14,5 @@ console.log(totalApples)
 
  let num = 3;
  num = 4
-
  console.log(num)
 
