@@ -3,19 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css">
     <title>Document</title>
   </head>
   <body>
-    <div class="main_container">
-      <div class="container">
-        <label>Binary Input</label>
-        <input id="userinput" type="text" class="" placeholder="Enter 0 or 1"/>
-        <button onclick="" type="button">Convert</button>
-       
-        <label>Decimal output</label>
+      <h1>Binary to Decimal Converter</h1>
 
+    <div class="main_container">
+
+      <div class="container">
+            <label for="binaryinput">Binary Input</label>
+            <input id="binaryinput" type="text"  placeholder="Enter 0 or 1"/>
+            <div class="button">
+                <button onclick="convertBinaryToDecimal()" type="button" class="btn">Convert</button>
+            </div>
+      </div>
+      <div class="Decimal">
+          <label for="result">Decimal output</label>
+          <input id="result" type="text"/>
       </div>
     </div>
+    
     <script src="script.js"></script>
   </body>
 </html>

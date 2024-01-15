@@ -1,6 +1,66 @@
-body{
-    margin: 0;
-    height:100vh;
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main_container {
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 2em;
+    background-color: blanchedalmond;   
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    border-radius: 30px;
+    justify-content: space-around;
+}
+
+#binaryinput{
+    padding: 1em;
+    width: 190px;
+    border: 1px solid bisque;
+    font-size: 18px;
+}
+
+.button{
+    padding: 1em;
+    margin-top: -4.7em;
+    margin-right: -11em;
+}
+
+.btn{
+    padding: 1em;
+    border: 1px solid bisque;
+    width: 150px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+label{
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: .5em;
+}
+
+.Decimal{
+    display: flex;
+    flex-direction: column;
+    margin-top: -2em;
+    margin-left: 2em;
+}
+
+#result{
+    width: 220px;
+    height: 50px;
+    border:none;
+}
+
+h1 {
+  font-weight: bolder;
 }
 
 
