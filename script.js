@@ -1,4 +1,4 @@
-ffunction convertBinaryToDecimal() {
+function convertBinaryToDecimal() {
     const binaryInput = document.getElementById("binaryInput").value;
 
     // Validate binary input
