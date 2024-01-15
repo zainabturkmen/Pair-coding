@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-weight: bolder;
+  }
+  
 .main_container {
     width: 500px;
     height: 250px;
@@ -58,10 +62,4 @@ label{
     height: 50px;
     border:none;
 }
-
-h1 {
-  font-weight: bolder;
-}
-
-
 
