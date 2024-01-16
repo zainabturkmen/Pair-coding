@@ -11,3 +11,4 @@
 //   }
 
 
+const string = "Hey I am string"
