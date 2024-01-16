@@ -20,8 +20,8 @@ function hayHi (){
 hayHi()
 
 
+const hey = 'hehhe'
 function someFunction(name){
- const hey = 'hehhe'
    console.log(`${hey} ${name}`)
 }
 
