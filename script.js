@@ -12,10 +12,18 @@
 
 
 
-function sum(num1, num2){
-    return num1 + num2
-}
+// function sum(num1, num2){
+//     return num1 + num2
+// }
 
-const numbers = sum(2+4, 5)
-console.log(numbers)
+// const numbers = firstsum(sum(2, 5), 10)
+
+// console.log(numbers)
+
+function multiply (num1, num2) {
+    return num1 * num2
+  }
+  
+  const result = sum(multiply(2, 3), 10)
+  console.log(result) // 16
 
