@@ -18,7 +18,7 @@ let sum = 0;
 console.log(0)
 
 let num1 = 300;
-let num2 = 500;
+let num2 = 50;
 
 sum = num1 + num2
 
