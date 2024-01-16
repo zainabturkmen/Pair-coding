@@ -12,19 +12,8 @@
 
 
 
-
-
-function returnFunc(){
-    return 'I am learning return keyWord'
+function sum(num1, num2){
+    return num1, num2
 }
 
-// returnFunc()
-console.log(returnFunc())
-
-
-function add2(num){
-    return num + 2
-}
-const number = add2(3)
-
-console.log(number)
+const numbers = 
