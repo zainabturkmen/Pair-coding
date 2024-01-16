@@ -20,10 +20,9 @@ function hayHi (){
 hayHi()
 
 
-function someFunction(){
-    hayHi()
-    console.log(Hi)
+function someFunction(name){
+ const hey = 'hehhe'
    
 }
 
-someFunction()
+someFunction('zainab')
