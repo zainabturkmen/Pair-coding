@@ -21,8 +21,9 @@ hayHi()
 
 
 function someFunction(){
-    const myVariable = "Hi function scope"
-    console.log(myVariable)
+    hayHi()
+    console.log(Hi)
+   
 }
 
 someFunction()
