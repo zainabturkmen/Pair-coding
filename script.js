@@ -9,8 +9,6 @@
 //       document.getElementById("result").innerText = 'Invalid Binary Input. Enter 0s and 1s only.';
 //     }
 //   }
-
-
 function four(){
     return 4
 }
