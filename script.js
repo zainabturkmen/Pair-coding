@@ -11,4 +11,14 @@
 //   }
 
 
+function four(){
+    return 4
+}
 
+function add8(callback){
+   return callback + 8
+}
+
+const result = add8(four, 8)
+
+console.log(result)
