@@ -64,8 +64,13 @@ label{
 }
  */
 
- body{
-    
+ header{
+    margin: 0 auto;
+    width: 500px;
+ }
+
+ h1{
+    text-align: center;
  }
 
  #container{
