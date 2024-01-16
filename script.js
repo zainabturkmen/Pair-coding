@@ -19,4 +19,3 @@ function add8(callback){
 const result = add8(four)
 
 console.log(result)
-
