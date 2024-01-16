@@ -12,3 +12,6 @@
 
 
 const string = "Hey I am string"
+console.log(string)
+
+let 
