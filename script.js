@@ -21,9 +21,8 @@
 // console.log(numbers)
 
 function multiply (num1, num2) {
-    return num1 + num2
+    console.log(num1 + num2)
   }
   
-  const result = sum(multiply(2, 3), 10)
-  console.log(result) // 16
+   sum(multiply(2, 3), 10)
 
