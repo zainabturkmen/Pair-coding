@@ -20,3 +20,11 @@ function returnFunc(){
 
 // returnFunc()
 console.log(returnFunc())
+
+
+function add2(num){
+    return num + 2
+}
+const number = add2(3)
+
+console.log(number)
