@@ -22,7 +22,7 @@ hayHi()
 
 function someFunction(name){
  const hey = 'hehhe'
-   
+   console.log(`${hey} ${name}`)
 }
 
 someFunction('zainab')
