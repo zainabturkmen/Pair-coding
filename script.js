@@ -12,12 +12,17 @@
 
 
 
-const Hi = "hello world"
+const Hi = "hello Goble scope"
 
 function hayHi (){
     console.log(Hi)
 }
-
-// console.log(hayHi)
 hayHi()
 
+
+function someFunction(){
+    const myVariable = "Hi function scope"
+    console.log(myVariable)
+}
+
+someFunction()
