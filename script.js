@@ -14,4 +14,5 @@
 const string = "Hey I am string"
 console.log(string)
 
-let 
+let sum = 0;
+console.log(sum)
