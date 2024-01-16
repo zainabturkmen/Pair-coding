@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0 auto;
     text-align: center;
 }
@@ -62,4 +62,40 @@ label{
     height: 50px;
     border:none;
 }
+ */
+
+ body{
+    
+ }
+
+ #container{
+    background-color:bisque;
+    padding: 1em 1em;
+ }
+
+ label{
+    display: block;
+    font-size: 20px;
+    margin: .7em;
+ }
+
+ #binaryinput, #decimalOutput{
+    padding: 1em;
+    margin: 0 2em 1em 1em ;
+    font-size: 15px;
+    background-color: bisque;
+
+ }
+
+ a{
+    text-decoration: none;
+    padding: .6em 2.5em;
+    background-color: bisque;
+    color:black;
+    font-size: 20px;
+    margin-left: -1em;
+    border: 2px solid black;
+ }
+
+
 
