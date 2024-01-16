@@ -12,3 +12,11 @@
 
 
 
+
+
+function returnFunc(){
+    return 'I am learning return keyWord'
+}
+
+// returnFunc()
+console.log(returnFunc())
