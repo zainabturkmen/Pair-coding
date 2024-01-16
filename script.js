@@ -12,11 +12,3 @@
 
 
 
-// function sum(num1, num2){
-//     return num1 + num2
-// }
-
-// const numbers = firstsum(sum(2, 5), 10)
-
-// console.log(numbers)
-
