@@ -11,18 +11,3 @@
 //   }
 
 
-
-const Hi = "hello Goble scope"
-
-function hayHi (){
-    console.log(Hi)
-}
-hayHi()
-
-
-function someFunction(name){
-    const hey = 'hehhe'
-   console.log(`${hey} ${name}`)
-}
-
-someFunction('zainab')
