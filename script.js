@@ -15,6 +15,7 @@ const string = "Hey I am string"
 console.log(string)
 
 let sum = 0;
+console.log(0)
 
 let num1 = 300;
 let num2 = 500;
