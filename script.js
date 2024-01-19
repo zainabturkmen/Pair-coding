@@ -15,11 +15,11 @@ const object = {
   name:'Zainab',
   'last Name': 'Turkmen',
   feild: 'CS',
-  method: function (){
-    console.log('heheheh')
+  method: function (name){
+    console.log()
   }
 }
-console.log(object.method())
+console.log(object.method('heheheh'))
 
 // const greeting = function(){
 //   console.log()
