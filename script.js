@@ -13,5 +13,10 @@ function convertBinaryToDecimal() {
   
 
 
+const object = {
+  name:'Zainab',
+  'last name': 'Turkmen',
+  feild: 'CS'
+}
 
-  
+console.log(object['last name'])
