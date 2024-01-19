@@ -12,7 +12,6 @@ function convertBinaryToDecimal() {
   }
   
 
-
 const object = {
   name:'Zainab',
   'last Name': 'Turkmen',
