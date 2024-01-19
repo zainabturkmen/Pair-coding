@@ -19,6 +19,8 @@ const object = {
   feild: 'CS'
 }
 
-
+delete object['last Name']
 
 console.log(object['last Name'])
+
+// console.log(object)
