@@ -20,3 +20,7 @@ const object = {
   }
 }
 console.log(object.method())
+
+// const greeting = function(){
+//   console.log()
+// }
