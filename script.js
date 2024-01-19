@@ -21,6 +21,6 @@ const object = {
 }
 console.log(object.method('heheheh'))
 
-// const greeting = function(){
-//   console.log()
-// }
+const greeting = function(){
+  console.log()
+}
