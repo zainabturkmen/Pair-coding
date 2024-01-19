@@ -18,5 +18,4 @@ const object = {
   'last Name': 'Turkmen',
   feild: 'CS'
 }
-// const result = object.feild
 console.log(object['last Name'])
