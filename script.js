@@ -21,4 +21,3 @@ const object = {
 delete object['last Name']
 
 console.log(object['last Name'])
-
