@@ -19,4 +19,5 @@ const object = {
   feild: 'CS'
 }
 
-console.log(object.feild)
+const result = object.feild
+console.log(result)
