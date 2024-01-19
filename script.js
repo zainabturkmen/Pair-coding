@@ -18,5 +18,5 @@ const object = {
   lastName: 'Turkmen',
   feild: 'CS'
 }
-const result = object.feild
-console.log(result)
+// const result = object.feild
+console.log(object.feild)
