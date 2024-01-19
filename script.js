@@ -10,6 +10,7 @@ function convertBinaryToDecimal() {
         "Invalid Binary Input. Enter 0s and 1s only.";
     }
   }
+  
 const object = {
   name:'Zainab',
   'last Name': 'Turkmen',
