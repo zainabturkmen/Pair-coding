@@ -15,8 +15,8 @@ function convertBinaryToDecimal() {
 
 const object = {
   name:'Zainab',
-  lastName: 'Turkmen',
+  'last Name': 'Turkmen',
   feild: 'CS'
 }
 // const result = object.feild
-console.log(object['feild'])
+console.log(object[last Name])
