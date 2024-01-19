@@ -18,4 +18,5 @@ const object = {
   'last Name': 'Turkmen',
   feild: 'CS'
 }
+
 console.log(object['last Name'])
