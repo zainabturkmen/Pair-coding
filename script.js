@@ -20,6 +20,6 @@ const object = {
   }
 }
 
-// delete object['last Name']
+bject['last Name']
 
 console.log(object.method())
