@@ -19,4 +19,4 @@ const object = {
   feild: 'CS'
 }
 // const result = object.feild
-console.log(object[last Name])
+console.log(object['last Name'])
