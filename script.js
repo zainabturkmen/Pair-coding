@@ -21,6 +21,9 @@ const object = {
 }
 console.log(object.method('heheheh'))
 
-const greeting = function(){
-  console.log()
+const greeting = {
+  meth:function (nani){
+    console.log(`hey i am ${nani}`)
+  }
 }
+greeting.meth('Zainab')
