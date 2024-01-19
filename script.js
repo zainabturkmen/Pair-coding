@@ -14,12 +14,12 @@ function convertBinaryToDecimal() {
 const object = {
   name:'Zainab',
   'last Name': 'Turkmen',
-  feild: 'CS'
-  method: function(){
+  feild: 'CS',
+  method: function (){
     console.log('heheheh')
   }
 }
 
-delete object['last Name']
+// delete object['last Name']
 
-console.log(object['method'])
+console.log(object['method']())
