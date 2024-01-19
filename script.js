@@ -19,6 +19,4 @@ const object = {
     console.log('heheheh')
   }
 }
-
-
 console.log(object.method())
