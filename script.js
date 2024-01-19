@@ -22,4 +22,4 @@ const object = {
 
 // delete object['last Name']
 
-console.log(object['method']())
+console.log(object.method())
