@@ -19,7 +19,6 @@ const object = {
     console.log()
   }
 }
-console.log(object.method('heheheh'))
 
 const greeting = {
   meth:function (nani){
