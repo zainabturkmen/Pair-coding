@@ -20,6 +20,5 @@ const object = {
   }
 }
 
-bject['last Name']
 
 console.log(object.method())
